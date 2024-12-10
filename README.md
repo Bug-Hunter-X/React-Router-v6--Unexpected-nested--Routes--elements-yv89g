@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Router v6: nesting Routes incorrectly. The original `App.js` shows the problematic code, resulting in unexpected behavior.  The corrected version, `AppCorrected.js`, shows the proper way to nest routes, ensuring correct routing functionality.
